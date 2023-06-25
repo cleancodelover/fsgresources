@@ -1,58 +1,58 @@
 {
-    "profile_image_url":"assets/img/me.jpg",
-    "title":"Pst.",
-    "first_name":"Emmanuel",
-    "last_name":"Andrew",
-    "website":"https://fsgresources.com",
-    "phone_number":"+234 8165 478 686",
-    "city":"FCT Abuja, Nigeria",
-    "email":"contact@fsgresources.com",
-    "home_tag_line":"",
-    "engagement":"Available",
-    "bio":"Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.",
-    "rating":
-    [
-        {
-            "title":"Happy Readers",
-            "quantity":232
-        },
-        {
-            "title":"Books",
-            "quantity":521
-        },
-        {
-            "title":"Awards",
-            "quantity":521
-        }
-    ],
-    "testimonials": [
-        {
-            "icon":"bi bi-emoji-smile",
-            "message": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.",
-            "image_url":"assets/img/testimonials/testimonials-1.jpg",
-            "name":"Saul Goodman",
-            "about":"Ceo & Founder"
-        },
-        {
-            "icon":"bi bi-journal-richtext",
-            "message": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.",
-            "image_url":"assets/img/testimonials/testimonials-2.jpg",
-            "name":"Sara Wilsson",
-            "about":"Ceo & Founder"
-        },
-        {
-            "icon":"bi bi-headset",
-            "message": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.",
-            "image_url":"assets/img/testimonials/testimonials-2.jpg",
-            "name":"Jena Karlis",
-            "about":"Store Owner"
-        },
-        {
-            "icon":"bi bi-award",
-            "message": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.",
-            "image_url":"assets/img/testimonials/testimonials-2.jpg",
-            "name":"Matt Brandon",
-            "about":"Store Owner"
-        }
-    ]
+  "profile_image_url": "assets/img/me.jpg",
+  "full_name": "Andrew Onyilokwu",
+  "title": "Pst.",
+  "first_name": "Andrew",
+  "last_name": "Onyilokwu",
+  "website": "https://fsgresources.com",
+  "phone_number": "+234 8165 478 686",
+  "city": "FCT Abuja, Nigeria",
+  "email": "contact@fsgresources.com",
+  "home_tag_line": "",
+  "engagement": "Available",
+  "bio": "Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.",
+  "rating": [
+    {
+      "title": "Happy Readers",
+      "quantity": 232
+    },
+    {
+      "title": "Books",
+      "quantity": 521
+    },
+    {
+      "title": "Awards",
+      "quantity": 521
+    }
+  ],
+  "testimonials": [
+    {
+      "icon": "bi bi-emoji-smile",
+      "message": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.",
+      "image_url": "assets/img/testimonials/testimonials-1.jpg",
+      "name": "Saul Goodman",
+      "about": "Ceo & Founder"
+    },
+    {
+      "icon": "bi bi-journal-richtext",
+      "message": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.",
+      "image_url": "assets/img/testimonials/testimonials-2.jpg",
+      "name": "Sara Wilsson",
+      "about": "Ceo & Founder"
+    },
+    {
+      "icon": "bi bi-headset",
+      "message": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.",
+      "image_url": "assets/img/testimonials/testimonials-2.jpg",
+      "name": "Jena Karlis",
+      "about": "Store Owner"
+    },
+    {
+      "icon": "bi bi-award",
+      "message": "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.",
+      "image_url": "assets/img/testimonials/testimonials-2.jpg",
+      "name": "Matt Brandon",
+      "about": "Store Owner"
+    }
+  ]
 }
